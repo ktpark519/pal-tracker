@@ -32,7 +32,10 @@ public class TimeEntryController {
         TimeEntry createdTimeEntry = timeEntriesRepo.create(timeEntry);
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> b340a5c... Add actuator endpoints
 =======
 >>>>>>> b340a5c... Add actuator endpoints
         actionCounter.increment();
