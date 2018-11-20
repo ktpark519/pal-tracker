@@ -31,7 +31,10 @@ public class TimeEntryController {
     public ResponseEntity<TimeEntry> create(@RequestBody TimeEntry timeEntry) {
         TimeEntry createdTimeEntry = timeEntriesRepo.create(timeEntry);
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> b340a5c... Add actuator endpoints
         actionCounter.increment();
         timeEntrySummary.record(timeEntriesRepo.list().size());
 
