@@ -34,7 +34,10 @@ public class TimeEntryController {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> b340a5c... Add actuator endpoints
 =======
 >>>>>>> b340a5c... Add actuator endpoints
 =======
