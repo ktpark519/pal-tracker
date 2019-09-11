@@ -21,6 +21,7 @@ public class JdbcTimeEntryRepositoryTest {
     private TimeEntryRepository subject;
     private JdbcTemplate jdbcTemplate;
 
+
     @Before
     public void setUp() {
         MysqlDataSource dataSource = new MysqlDataSource();
